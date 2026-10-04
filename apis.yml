@@ -39,7 +39,6 @@ apis:
   - name: Wolne Lektury
     description: "API for obtaining information about e-books available on the WolneLektury.pl website"
     humanURL: https://wolnelektury.pl/api/
-    baseURL: https://wolnelektury.pl/api/
     tags:
       - Books
     properties:
