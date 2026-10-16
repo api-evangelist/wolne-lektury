@@ -1,0 +1,21 @@
+{
+  "repo": "wolne-lektury",
+  "feeds": [
+    {
+      "source": "https://fundacja.wolnelektury.pl/category/wolne-lektury/",
+      "feed_url": "https://fundacja.wolnelektury.pl/category/wolne-lektury/blog/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
+    },
+    {
+      "source": "https://fundacja.wolnelektury.pl/feed/",
+      "feed_url": "https://fundacja.wolnelektury.pl/feed/",
+      "title": "",
+      "saved": 2,
+      "method": "feed"
+    }
+  ],
+  "post_count": 2,
+  "fetched": "2026-10-10T13:15:00Z"
+}
