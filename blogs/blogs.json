@@ -12,10 +12,17 @@
       "source": "https://fundacja.wolnelektury.pl/feed/",
       "feed_url": "https://fundacja.wolnelektury.pl/feed/",
       "title": "",
-      "saved": 2,
+      "saved": 0,
+      "method": "feed"
+    },
+    {
+      "source": "https://fundacja.wolnelektury.pl/category/wolne-lektury/blog/feed/",
+      "feed_url": "https://fundacja.wolnelektury.pl/category/wolne-lektury/blog/feed/",
+      "title": "",
+      "saved": 0,
       "method": "feed"
     }
   ],
-  "post_count": 2,
-  "fetched": "2026-10-10T13:15:00Z"
+  "post_count": 20,
+  "fetched": "2026-10-17T14:53:57Z"
 }
